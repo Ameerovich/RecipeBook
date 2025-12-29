@@ -123,27 +123,27 @@ A full-featured recipe management web application built with Angular 19, NgRx st
 
 ### Recipe List
 
-![Recipe List](./screenshots/recipe-list.png)
+![Recipe List](./screenshots/Recipes-List.png)
 _Browse and manage all your recipes_
 
 ### Recipe Detail
 
-![Recipe Detail](./screenshots/recipe-detail.png)
+![Recipe Detail](./screenshots/Recipe-details.png)
 _View complete recipe with ingredients and instructions_
 
 ### Create/Edit Recipe
 
-![Recipe Form](./screenshots/recipe-form.png)
+![Recipe Form](./screenshots/Edit-recipe.png)
 _Dynamic form with add/remove ingredient functionality_
 
 ### Shopping List
 
-![Shopping List](./screenshots/shopping-list.png)
+![Shopping List](./screenshots/Shopping-list.png)
 _Manage your shopping list with ingredients from recipes_
 
 ### Authentication
 
-![Login](./screenshots/login.png)
+![Login](./screenshots/Login.png)
 _Secure login with Firebase Authentication_
 
 ---
